@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2036109a-15d6-4330-834a-983fca500f8c" name="Changes" comment="Tarefa de wrapper!!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarefa_controleDeFluxo/untitled/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tarefa_controleDeFluxo/untitled/src/App.java" afterDir="false" />
+    <list default="true" id="2036109a-15d6-4330-834a-983fca500f8c" name="Changes" comment="Tarefa de Coleções!!">
+      <change afterPath="$PROJECT_DIR$/Tarefa_colecoes/Tarefa_colecoes/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +40,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/djalma/IdeaProjects/ebac-tarefas-java/Tarefa_colecoes",
+    "last_opened_file_path": "/home/djalma/IdeaProjects/ebac-tarefas-java/Tarefa_colecoes/Tarefa_colecoes",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tarefa_colecoes/Tarefa_colecoes/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tarefa_colecoes" />
       <recent name="$PROJECT_DIR$/tarefa_wrapper" />
     </key>
   </component>
@@ -66,11 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1747768757146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tarefa de Coleções!!">
+      <option name="closed" value="true" />
+      <created>1747800178567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747800178567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarefa de wrapper!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de wrapper!!" />
+    <MESSAGE value="Tarefa de Coleções!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de Coleções!!" />
   </component>
 </project>
