@@ -9,7 +9,7 @@ public class App {
             if(args[0] == null) throw new Exception();
             // try reading args
             System.out.println("avarage : "+ avarage(catstStringToIntArray(args))) ;
-        } catch (Exception _) {
+        } catch (Exception e) {
             // try getting user inputs
             med = avarage(getInput());
             System.out.println("avarage : "+ med);
