@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2036109a-15d6-4330-834a-983fca500f8c" name="Changes" comment="Tarefa de interfaces, abtratas no lugar certo...!!!">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2036109a-15d6-4330-834a-983fca500f8c" name="Changes" comment="Tarefa de Anotations EBAC mod 17, Tabela annotation...!!!">
+      <change afterPath="$PROJECT_DIR$/Tarefa_reflections/.idea/Tarefa_annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarefa_reflections/TarefaAnnotation/TarefaAnnotation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod10/ebac-tarefas-java" beforeDir="false" afterPath="$PROJECT_DIR$/../mod10/ebac-tarefas-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod8/ebac-mod8" beforeDir="false" afterPath="$PROJECT_DIR$/../mod8/ebac-mod8" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/djalm/Documents/repositórios/ebac/github_ebac_java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/djalm/Documents/repositórios/ebac/github_ebac_java/Tarefa_reflections",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\djalm\Documents\repositórios\ebac\github_ebac_java\Tarefa_reflections" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Tarefa_colecoes/Tarefa_colecoes/src" />
     </key>
@@ -161,8 +165,59 @@
       <option name="project" value="LOCAL" />
       <updated>1747807986726</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tarefa de Generics EBAC mod 16, Lista genérica de carros...!!!">
+      <option name="closed" value="true" />
+      <created>1768122179766</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768122179766</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarefa de Generics EBAC mod 16, Lista genérica de carros...!!!">
+      <option name="closed" value="true" />
+      <created>1768122203177</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768122203177</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarefa de Generics EBAC mod 16, Lista genérica de carros...!!!">
+      <option name="closed" value="true" />
+      <created>1768122465466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768122465466</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarefa de Generics EBAC mod 16, Lista genérica de carros...!!!">
+      <option name="closed" value="true" />
+      <created>1768122559730</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768122559730</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Tarefa de Anotations EBAC mod 17, Tabela annotation...!!!">
+      <option name="closed" value="true" />
+      <created>1768179898698</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768179898698</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarefa de wrapper!!" />
@@ -170,6 +225,8 @@
     <MESSAGE value="Tarefa de Coleções parte 2!!" />
     <MESSAGE value="Tarefa de interfaces, abtratas ...!!!" />
     <MESSAGE value="Tarefa de interfaces, abtratas no lugar certo...!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de interfaces, abtratas no lugar certo...!!!" />
+    <MESSAGE value="Tarefa de Generics EBAC mod 16, Lista genérica de carros...!!!" />
+    <MESSAGE value="Tarefa de Anotations EBAC mod 17, Tabela annotation...!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de Anotations EBAC mod 17, Tabela annotation...!!!" />
   </component>
 </project>
