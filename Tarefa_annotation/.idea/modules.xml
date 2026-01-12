@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TarefaAnnotation/TarefaAnnotation.iml" filepath="$PROJECT_DIR$/TarefaAnnotation/TarefaAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tarefa_annotation.iml" filepath="$PROJECT_DIR$/.idea/Tarefa_annotation.iml" />
+    </modules>
+  </component>
+</project>
