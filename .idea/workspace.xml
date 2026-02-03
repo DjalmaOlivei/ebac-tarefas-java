@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2036109a-15d6-4330-834a-983fca500f8c" name="Changes" comment="Tarefa de Streams EBAC mod 22, streamado...!!!">
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/.idea/tarefa_streams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/TarefaStreams/TarefaStreams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/TarefaStreams/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/TarefaStreams/src/domain/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/out/production/TarefaStreams/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarefa_teste1/out/production/TarefaStreams/domain/Pessoa.class" afterDir="false" />
+    <list default="true" id="2036109a-15d6-4330-834a-983fca500f8c" name="Changes" comment="Tarefa de Teste 2 EBAC mod 24, testado 2 ...!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod10/ebac-tarefas-java" beforeDir="false" afterPath="$PROJECT_DIR$/../mod10/ebac-tarefas-java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod8/ebac-mod8" beforeDir="false" afterPath="$PROJECT_DIR$/../mod8/ebac-mod8" afterDir="false" />
@@ -230,7 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768274134499</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Tarefa de Teste1 EBAC mod 23, testado...!!!">
+      <option name="closed" value="true" />
+      <created>1768288276577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768288276577</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Tarefa de Teste 2 EBAC mod 24, testado 2 ...!!!">
+      <option name="closed" value="true" />
+      <created>1768293687305</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768293687305</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +260,8 @@
     <MESSAGE value="Tarefa de Anotations EBAC mod 17, Tabela annotation...!!!" />
     <MESSAGE value="Tarefa de Reflections EBAC mod 19, Tabela annotation reflected...!!!" />
     <MESSAGE value="Tarefa de Streams EBAC mod 19, streamado...!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de Streams EBAC mod 19, streamado...!!!" />
+    <MESSAGE value="Tarefa de Teste1 EBAC mod 23, testado...!!!" />
+    <MESSAGE value="Tarefa de Teste 2 EBAC mod 24, testado 2 ...!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de Teste 2 EBAC mod 24, testado 2 ...!!!" />
   </component>
 </project>
